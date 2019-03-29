@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Case Conversion",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EJS 2",
+		"Emmet",
+		"JsPrettier",
+		"MarkdownPreview",
+		"Naomi",
+		"nginx",
+		"Package Control",
+		"PEGjs LiveScript",
+		"PostgreSQL Syntax Highlighting",
+		"Pretty YAML",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Stylefmt",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Syntax Highlighting for PostCSS"
+	]
+}
