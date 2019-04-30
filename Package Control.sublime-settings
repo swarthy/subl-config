@@ -24,6 +24,7 @@
 		"SqlBeautifier",
 		"Stylefmt",
 		"SublimeLinter",
+		"SublimeLinter-contrib-stylelint_d",
 		"SublimeLinter-eslint",
 		"Syntax Highlighting for PostCSS"
 	]

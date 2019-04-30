@@ -6,6 +6,9 @@
   "linters": {
     "eslint": {
       "executable": "/usr/local/bin/eslint_d"
+    },
+    "stylelint_d": {
+      "selector": "source.css"
     }
   },
   "styles": [
